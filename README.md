@@ -1,5 +1,4 @@
 # Net-CR-Dataset
-Cantonese rumor dataset with graph structure information
 
 The dataset constructed in the paper _SA-GCN: Deep Semantic-Aware Graph Convolutional Network for Cantonese Rumor Detection_, which contains 2,395 events and 214,625 posts.
 
