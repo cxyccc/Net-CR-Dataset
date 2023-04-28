@@ -1,6 +1,6 @@
 # Net-CR-Dataset
 
-The dataset constructed in the paper _SA-GCN: Deep Semantic-Aware Graph Convolutional Network for Cantonese Rumor Detection_, which contains 2,395 events and 214,625 posts.
+The dataset constructed in the paper _A Deep Semantic-Aware Approach for Cantonese Rumor Detection in Social Networks with Graph Convolutional Network_, which contains 2,395 events and 214,625 posts.
 
 ## source_tweet.csv
 It contains the information of source tweets, including full text and label.
